@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu_ssg=self.webpackChunkdocu_ssg||[]).push([[329],{1462:function(a){a.exports=JSON.parse('{"allTagsPath":"/andrewillomitzerDocusaur/blog/tags","slug":"/andrewillomitzerDocusaur/blog/tags/hola","name":"hola","count":1,"permalink":"/andrewillomitzerDocusaur/blog/tags/hola"}')}}]);
