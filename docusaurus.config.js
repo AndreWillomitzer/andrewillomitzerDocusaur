@@ -9,7 +9,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://andrewillomitzer.github.io',
-  baseUrl: '/andrewillomitzerdocuSSG/',
+  baseUrl: '/andrewillomitzerDocusaur/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
